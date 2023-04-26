@@ -1,1 +1,1 @@
-# egg-price-predictor-with-ARIMA
+# Eggscelent-price-predictor-with-ARIMA
